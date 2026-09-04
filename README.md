@@ -40,7 +40,3 @@ driving video generation with substantially fewer sampling steps.
 
 [[arXiv]](https://arxiv.org/abs/2608.12203) ·
 [[PDF]](https://arxiv.org/pdf/2608.12203)
-
-<p align="center">
-  <img src="assets/publications/geoflow-summary.png" alt="GeoFlow summary" width="460">
-</p>
