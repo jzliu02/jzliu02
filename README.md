@@ -1,39 +1,46 @@
 <div align="center">
 
-# Hi, I'm Jiazheng Liu 👋
+# 刘嘉政 · Jiazheng Liu
 
-**Exploring graphics, real-time visualization, and creative development.**
+### M.S. Candidate at Beihang University · Class of 2027
 
-[![GitHub](https://img.shields.io/badge/GitHub-jzliu02-181717?style=flat-square&logo=github)](https://github.com/jzliu02)
-![Beihang University](https://img.shields.io/badge/Beihang-University-005BAC?style=flat-square)
+Researching **Autonomous Driving**, **Embodied Intelligence**, and the generative models that connect perception, prediction, and action.
 
-</div>
-
-## About me
-
-I'm currently at **Beihang University**. I use this space to learn in public,
-document technical experiments, and explore ideas around computer graphics and
-interactive applications.
-
-- 🔭 Exploring real-time 3D visualization
-- 🌱 Learning through small, practical experiments
-- 🧩 Interested in Gaussian Splatting and Unity-based prototyping
-
-## Featured exploration
-
-### [UnityGaussianSplatting](https://github.com/jzliu02/UnityGaussianSplatting)
-
-A Unity-based exploration of Gaussian Splatting visualization.
-
-## 中文简介
-
-你好，我是 **Jiazheng Liu**，目前在北京航空航天大学。我关注计算机图形学、
-实时三维可视化和交互应用，并在这里记录学习过程与技术实践。
-
----
-
-<div align="center">
-
-Thanks for stopping by. Feel free to explore my repositories and follow along.
+[![Website](https://img.shields.io/badge/Personal_Website-087F8C?style=for-the-badge&logo=safari&logoColor=white)](https://jzliu02.github.io/jzliu02/)
+[![GitHub](https://img.shields.io/badge/GitHub-102A43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jzliu02)
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.12203)
 
 </div>
+
+## About
+
+I am a master's student at the **School of Computer Science and Engineering,
+Beihang University**, graduating in 2027. My research interests include
+autonomous driving, embodied intelligence, world models, video generation,
+vision-language-action models (VLA), and world action models (WAM).
+
+我是北京航空航天大学计算机学院 2027 届硕士研究生，研究方向聚焦于自动驾驶、
+具身智能及相关生成式智能技术。
+
+## Research interests
+
+`Autonomous Driving` · `Embodied Intelligence` · `World Models` ·
+`Video Generation` · `VLA` · `WAM`
+
+## Publications
+
+### GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors
+
+**Jiazheng Liu**, Hang Li, Jiawei Zhang, Jiahe Li, Xiaohan Yu, Shengyin Fan,
+Jin Zheng, Xiao Bai<br>
+*European Conference on Computer Vision (ECCV), 2026*
+
+GeoFlow constructs a geometry-aligned prior for efficient, temporally consistent
+driving video generation with substantially fewer sampling steps.
+
+[[arXiv]](https://arxiv.org/abs/2608.12203) ·
+[[PDF]](https://arxiv.org/pdf/2608.12203)
+
+<p align="center">
+  <img src="assets/publications/geoflow-framework.png" alt="GeoFlow framework" width="900">
+</p>
