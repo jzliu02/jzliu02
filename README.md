@@ -42,5 +42,5 @@ driving video generation with substantially fewer sampling steps.
 [[PDF]](https://arxiv.org/pdf/2608.12203)
 
 <p align="center">
-  <img src="assets/publications/geoflow-framework.png" alt="GeoFlow framework" width="900">
+  <img src="assets/publications/geoflow-summary.png" alt="GeoFlow summary" width="460">
 </p>
