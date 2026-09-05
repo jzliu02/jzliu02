@@ -27,7 +27,7 @@ vision-language-action models (VLA), and world action models (WAM).
 `Autonomous Driving` · `Embodied Intelligence` · `World Models` ·
 `Video Generation` · `VLA` · `WAM`
 
-## Publications
+<!-- ## Publications
 
 ### GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors
 
@@ -39,4 +39,4 @@ GeoFlow constructs a geometry-aligned prior for efficient, temporally consistent
 driving video generation with substantially fewer sampling steps.
 
 [[arXiv]](https://arxiv.org/abs/2608.12203) ·
-[[PDF]](https://arxiv.org/pdf/2608.12203)
+[[PDF]](https://arxiv.org/pdf/2608.12203) -->
